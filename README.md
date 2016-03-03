@@ -20,6 +20,7 @@ printData. Методите setBrand и setMaxSpeed съответно пром�
 зад.4 Имате зададен класа:
 
 class Vehicle:
+
     def __init__(self, speed, maxSpeed):
         self.speed = speed
         self.maxSpeed = maxSpeed
